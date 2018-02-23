@@ -5,7 +5,6 @@
             <name>Nexus daocloud</name>
             <url>http://nexus.daocloud.io/repository/maven-public/</url>
             <mirrorOf>central</mirrorOf>
-        </repository>
         </mirror>
         <mirror>
             <id>alimaven</id>
